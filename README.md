@@ -19,7 +19,7 @@ Para analizar esta propuesta y todos los aspectos mencionados anteriormente y ma
 
 En el caso del Vigo Film Office, es una propuesta con potencial pero aún tiene aspectos que mejorar si quiere estar a la altura de sus competidores. En la siguiente imagen se muestra el Website Checklist que he realizado sobre está página de Vigo:
 
-https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/1_Website_Checklist/Checklist%20-%20VigoFilmOffice.png
+![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/1_Website_Checklist/Checklist%20-%20VigoFilmOffice.png)
   - El enlace a este recurso en PDF es : [Website Checklist - GRFC en PDF](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/1_Website_Checklist/Checklist%20-%20VigoFilmOffice.pdf)
   - El enlace a este recurso en Figma es : [Website Checklist - GRFC en Figma](https://www.figma.com/design/OyTFIj9YDe9DBNtOY30dpt/Website-Design-Checklist---Trabajo-Final?node-id=0-1&t=QACqajyUycHeyA2w-1)
 
@@ -29,7 +29,7 @@ La herramienta que he escogido para realizar la comparativa es el Competitive An
 
 Tras realizar dicho análisis, habría un orden en entre las propuestas siendo el Valencia Film Office la web más completa y la Vigo Film Office la que tiene un mayor margen de mejora. Granada Filmin estaría en medio de ambas, tiene algunas mejoras respecto a la de Vigo, pero no llega a ser tan excelente como la propuesta de Valencia.
 
-[imagen](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/2_Competitor_Analysis%20/Competitor%20Analysis%20-%20Trabajo%20Final.png)
+![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/2_Competitor_Analysis%20/Competitor%20Analysis%20-%20Trabajo%20Final.png)
   - El enlace a este recurso en PDF es : [Competitor Analysis - GRFC en PDF](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/2_Competitor_Analysis%20/Competitor%20Analysis%20-%20Trabajo%20Final.pdf)
   - El enlace a este recurso en Figma es : [Competitor Analysis - GRFC en Figma](https://www.figma.com/design/tGuvFSWZf7yxf1sKPRJoyP/Competitor-Analysis---Trabajo-Final?node-id=0-1&t=oa86zWbpNhL2lGt2-1)
 
@@ -40,17 +40,17 @@ GRFC (Granada Film Comission) le permite convertir la ciudad y provincia de Gran
 
 **Luz, cámara, ... Granada**
 
-Logotipo: [imagen](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/Logo_GRFC.png)
+Logotipo: ![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/Logo_GRFC.png){width='100px'}
 
 El *ScopeCanvas* es una herramienta que permite una visión global y alineada sobre una propuesta o trabajo. Permite visualizar los aspectos clave del proyecto. También ayuda a delimitar lo que no interesa para así evitar desviaciones y malentendidos a lo largo del desarrollo de la propuesta. 
 
-[imagen](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/3_Scope_Canvas/Scope%20Canvas%20-%20Trabajo%20Final.png)
+![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/3_Scope_Canvas/Scope%20Canvas%20-%20Trabajo%20Final.png)
   - El enlace a este recurso en PDF es : [Scope Canvas - GRFC en PDF](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/3_Scope_Canvas/Scope%20Canvas%20-%20Trabajo%20Final.pdf)
   - El enlace a este recurso en Figma es : [Scope Canvas - GRFC en Figma](https://www.figma.com/design/2mOPdRY1uMvsDi8gGhPQQE/Scope-Canvas---Trabajo-Final?t=oa86zWbpNhL2lGt2-1)
 
 Los *Bocetos* sobre la APP del GCFC los he realizado para el tamaño estándar de Android (360x800px) y para PC (1920x280px). En ellos he querido destacar el menú de hamburguesa, el idioma (por defecto, español), una vista en carousel, un mapa sobre Granada que es interactivo y un list card. Así como un footer con distintas opciones. En el modelo para móvil no aparece esta parte pues se trata de una app y no una página web, por lo que la opción de contactar con nosotros, redes sociales y demás se encuentran integradas en el menú desplegable.
 
-[imagen](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/4_Bocetos/Bocetos%20-%20Trabajo%20Final.png)
+![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/4_Bocetos/Bocetos%20-%20Trabajo%20Final.png)
   - El enlace a este recurso en PDF es : [Bocetos - GRFC en PDF](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/4_Bocetos/Bocetos%20-%20Trabajo%20Final.png)
   - El enlace a este recurso en Figma es : [Bocetos - GRFC en Figma](https://www.figma.com/design/NWrXEWxf6hQ2sJfoo7VkpS/Bocetos---Trabajo-Final?t=oa86zWbpNhL2lGt2-1)
 
