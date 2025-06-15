@@ -40,7 +40,7 @@ GRFC (Granada Film Comission) le permite convertir la ciudad y provincia de Gran
 
 **Luz, cámara, ... Granada**
 
-Logotipo: ![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/Logo_GRFC.png){width='100px'}
+Logotipo: ![](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/Logo_GRFC.png)
 
 El *ScopeCanvas* es una herramienta que permite una visión global y alineada sobre una propuesta o trabajo. Permite visualizar los aspectos clave del proyecto. También ayuda a delimitar lo que no interesa para así evitar desviaciones y malentendidos a lo largo del desarrollo de la propuesta. 
 
