@@ -19,7 +19,7 @@ Para analizar esta propuesta y todos los aspectos mencionados anteriormente y ma
 
 En el caso del Vigo Film Office, es una propuesta con potencial pero aún tiene aspectos que mejorar si quiere estar a la altura de sus competidores. En la siguiente imagen se muestra el Website Checklist que he realizado sobre está página de Vigo:
 
-[imagen](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/1_Website_Checklist/Checklist%20-%20VigoFilmOffice.png)
+https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/1_Website_Checklist/Checklist%20-%20VigoFilmOffice.png
   - El enlace a este recurso en PDF es : [Website Checklist - GRFC en PDF](https://github.com/AngelRodriguezFaya/trabajo_final_DIU25/blob/main/Parte_2/1_Website_Checklist/Checklist%20-%20VigoFilmOffice.pdf)
   - El enlace a este recurso en Figma es : [Website Checklist - GRFC en Figma](https://www.figma.com/design/OyTFIj9YDe9DBNtOY30dpt/Website-Design-Checklist---Trabajo-Final?node-id=0-1&t=QACqajyUycHeyA2w-1)
 
